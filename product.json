@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "title":"the title of product n`1",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image1.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":2,
+        "title":"the title of product n`2",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image2.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":3,
+        "title":"the title of product n`3",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image3.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":4,
+        "title":"the title of product n`4",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image4.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":5,
+        "title":"the title of product n`5",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image5.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":6,
+        "title":"the title of product n`6",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image6.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":7,
+        "title":"the title of product n`7",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image7.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":8,
+        "title":"the title of product n`8",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image8.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":9,
+        "title":"the title of product n`9",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image9.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    },
+    {
+        "id":10,
+        "title":"the title of product n`10",
+        "price":"12",
+        "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
+        "path":"images/image10.jpeg",
+        "size":["XL"],
+        "state":true,
+        "category":"Men"
+    }
+]
