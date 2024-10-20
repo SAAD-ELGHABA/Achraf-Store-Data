@@ -4,7 +4,7 @@
         "title":"the title of product n`1",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image1.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image1.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -14,7 +14,7 @@
         "title":"the title of product n`2",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image2.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image2.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -24,7 +24,7 @@
         "title":"the title of product n`3",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image3.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image3.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -34,7 +34,7 @@
         "title":"the title of product n`4",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image4.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image4.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -44,7 +44,7 @@
         "title":"the title of product n`5",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image5.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image5.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -54,7 +54,7 @@
         "title":"the title of product n`6",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image6.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image6.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -64,7 +64,7 @@
         "title":"the title of product n`7",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image7.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image7.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -74,7 +74,7 @@
         "title":"the title of product n`8",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image8.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image8.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -84,7 +84,7 @@
         "title":"the title of product n`9",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image9.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image9.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
@@ -94,7 +94,7 @@
         "title":"the title of product n`10",
         "price":"12",
         "description":"    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium, eaque! Quisquam, similique consequatur. Necessitatibus repellendus dignissimos culpa vitae harum iure!",
-        "path":"images/image10.jpeg",
+        "path":"https://saad-elghaba.github.io/Achraf-Store-Data/images/image10.jpeg",
         "size":["XL"],
         "state":true,
         "category":"Men"
